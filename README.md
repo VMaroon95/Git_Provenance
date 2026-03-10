@@ -1,6 +1,7 @@
 # 🔐 git-provenance
 
-**AI Governance & IP Compliance Firewall for Git**
+
+> **Part of the [meda-claw](https://github.com/VMaroon95/meda-claw) Governance Stack** — Install the full suite via `pip install meda-claw`**AI Governance & IP Compliance Firewall for Git**
 
 > Enforcing algorithmic accountability in corporate software supply chains.
 
